@@ -1,0 +1,27 @@
+.cart-summary{
+    background-color: #FF99004D;
+    ;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+    height: 100dvh;
+}
+.cart-summary p{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    color: #2A414F;
+}
+.cart-summary h5{
+    font-size: 21px;
+    font-weight: 600;
+    color: #2A414F;
+}
+.cart-summary h3{
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #1C2B35;
+}
